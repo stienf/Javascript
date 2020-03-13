@@ -1,0 +1,11 @@
+#header {
+    width: 100%;
+}
+img#productImg{
+    width: 45%;
+
+}
+
+.price{
+    font-size: 1.8rem;
+}
